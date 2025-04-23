@@ -23,8 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 # Configurações sensíveis (ambiente local)
 appsettings.json
- .vs/
-
+ 
  # Ignorar configurações sensíveis
 appsettings.json
 appsettings.*.json
+
+
+# Visual Studio
+.vs/
